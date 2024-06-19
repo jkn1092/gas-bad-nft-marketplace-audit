@@ -19,17 +19,6 @@ We will be deploying `GasBadNftMarketplace.sol` to the Ethereum mainnet, but are
 <br/> -->
 
 
-# About
-
-We are building a "gas bad" marketplace. An NFT marketplace, but we are going for a gas optimized version. 
-
-To do this, we are writing 2 types of smart contracts:
-
-1. Reference contracts in solidity 
-2. Optimized contracts in solidity / assembly 
-
-We will be deploying `GasBadNftMarketplace.sol` to the Ethereum mainnet, but are using `NftMarketplace.sol` as a reference point. 
-
 # Getting Started
 
 ## Quickstart
