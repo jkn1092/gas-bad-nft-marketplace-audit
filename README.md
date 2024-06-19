@@ -4,6 +4,7 @@
 <img src="./img/gas-bad.png" width="400" alt="gas-bad">
 <br/>
 
+This project focuses on building a gas-optimized NFT marketplace on the Ethereum mainnet, utilizing assembly and formal verification techniques.
 
 We are building a "gas bad" marketplace. An NFT marketplace, but we are going for a gas optimized version. 
 
@@ -17,7 +18,6 @@ We will be deploying `GasBadNftMarketplace.sol` to the Ethereum mainnet, but are
 <!-- <p align="center">
 <img src="./images/math-master.png" width="400" alt="gas bad nft marketplace">
 <br/> -->
-
 
 # Getting Started
 
